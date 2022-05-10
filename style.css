@@ -147,6 +147,16 @@ select {
   button:hover {
     transform: scale(0.98);
   }
+
+  .bottomText {
+    font-size: 18px;
+    padding-top: 10px;
+  }
+  .bottomText2 {
+    font-size: 18px;
+    
+  
+  }
   
 
 
